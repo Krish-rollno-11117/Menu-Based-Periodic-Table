@@ -580,7 +580,6 @@ print('''
 
 print('--------------------------------------------------------------------------------------------')
 
-
 while True:
     inp = input('Enter the symbol of wished element: ')
     if str.lower(inp) in element_data:
